@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/catalogue_management/static/css/main.d112d5c7.chunk.css",
-    "main.js": "/catalogue_management/static/js/main.76cb16b2.chunk.js",
-    "main.js.map": "/catalogue_management/static/js/main.76cb16b2.chunk.js.map",
+    "main.css": "/catalogue_management/static/css/main.04ba448e.chunk.css",
+    "main.js": "/catalogue_management/static/js/main.bbf293ca.chunk.js",
+    "main.js.map": "/catalogue_management/static/js/main.bbf293ca.chunk.js.map",
     "runtime-main.js": "/catalogue_management/static/js/runtime-main.a7386db1.js",
     "runtime-main.js.map": "/catalogue_management/static/js/runtime-main.a7386db1.js.map",
     "static/js/2.aca1d917.chunk.js": "/catalogue_management/static/js/2.aca1d917.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.bebdf219.chunk.js": "/catalogue_management/static/js/3.bebdf219.chunk.js",
     "static/js/3.bebdf219.chunk.js.map": "/catalogue_management/static/js/3.bebdf219.chunk.js.map",
     "index.html": "/catalogue_management/index.html",
-    "static/css/main.d112d5c7.chunk.css.map": "/catalogue_management/static/css/main.d112d5c7.chunk.css.map",
+    "static/css/main.04ba448e.chunk.css.map": "/catalogue_management/static/css/main.04ba448e.chunk.css.map",
     "static/js/2.aca1d917.chunk.js.LICENSE.txt": "/catalogue_management/static/js/2.aca1d917.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a7386db1.js",
     "static/js/2.aca1d917.chunk.js",
-    "static/css/main.d112d5c7.chunk.css",
-    "static/js/main.76cb16b2.chunk.js"
+    "static/css/main.04ba448e.chunk.css",
+    "static/js/main.bbf293ca.chunk.js"
   ]
 }
